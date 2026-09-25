@@ -44,6 +44,7 @@ numbers = [12, 5, 8, 21, 34, 7, 10, 15]
 # print(2 in baholar)
 
 # 8
+# tushunmadim
 numbers = []
 
 
